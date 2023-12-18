@@ -1,7 +1,5 @@
 # VPR
-Visual product recognition a project using python, SQL and deep learning
-
-Image-Based Product Search using YOLOv3 and Streamlit
+Visual product recognition an Image-Based Product Search using YOLOv3 and Streamlit
 
 Overview
 This project aims to revolutionize traditional text-based web searches by enabling users to conduct product searches using images. Leveraging YOLOv3 (a deep learning model) and Streamlit, users can upload images of desired products and receive relevant links to purchase them.
