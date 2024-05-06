@@ -17,6 +17,6 @@ This project aims to revolutionize traditional text-based web searches by enabli
 - Streamlit: Web app framework for the user interface.
 
 ## Streamlit Interface:
-[Vpr](.Video/VPR.mp4)
+[Vpr](Video)
 
 
