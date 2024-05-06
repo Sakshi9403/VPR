@@ -15,3 +15,6 @@ This project aims to revolutionize traditional text-based web searches by enabli
 - YOLOv3: Deep learning model for object detection.
 - SQLite3: Database management for storing product information.
 - Streamlit: Web app framework for the user interface.
+
+## Streamlit Interface:
+![Video](./Video/VPR.mp4)
