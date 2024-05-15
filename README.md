@@ -16,7 +16,5 @@ This project aims to revolutionize traditional text-based web searches by enabli
 - SQLite3: Database management for storing product information.
 - Streamlit: Web app framework for the user interface.
 
-## Streamlit Interface:
-[Vpr](Video)
 
 
